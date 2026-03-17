@@ -6,8 +6,8 @@ Predictive anomaly detection and budget forecasting for cloud infrastructure usi
 This project implements a Data Science approach to cloud financial management (FinOps). The goal is to move from reactive reporting to proactive intelligence by using statistical modeling to identify spending anomalies and predict future cloud costs based on historical trends.
 
 :hammer_and_wrench: **Technologies & Tools**
-• Data Logic: Python (Predictive Modeling) & SQL
 
+• Data Logic: Python (Predictive Modeling) & SQL
 • Platform: Databricks (Spark SQL)
 • Domain: FinOps & Data Science
 • Methodology: Z-Score for Outlier Detection & Linear Regression for Forecasting
