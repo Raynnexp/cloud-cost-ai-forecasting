@@ -1,0 +1,15 @@
+# AI-Driven Cost Optimization Strategy
+
+This project uses AI to move from "Reactive" to "Predictive" FinOps.
+
+### Step 1: Data Pre-processing
+* **Action:** Clean the `billing_history.csv` using Python (Pandas).
+* **AI Logic:** Remove outliers (anomalies) so they don't bias the prediction.
+
+### Step 2: Time-Series Forecasting
+* **Action:** Apply an **ARIMA** or **Prophet** model.
+* **Goal:** Predict the cloud invoice value for the next 30 days based on historical seasonality.
+
+### Step 3: Automated Anomaly Alerts
+* **Action:** Integrate a Python script with a Slack/Email API.
+* **AI Logic:** If `Z-Score > 3`, trigger an immediate alert to the Engineering team to stop resource leakage.
