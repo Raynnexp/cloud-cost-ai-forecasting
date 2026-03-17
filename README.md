@@ -1,13 +1,16 @@
-Cloud Cost Intelligence & AI Forecasting :cloud::bar_chart:
+**Cloud Cost Intelligence & AI Forecasting :cloud::bar_chart:**
+
 Predictive anomaly detection and budget forecasting for cloud infrastructure using Statistical Modeling.
-:pushpin: Project Objective
+:pushpin: **Project Objective**
 This project implements a Data Science approach to cloud financial management (FinOps). The goal is to move from reactive reporting to proactive intelligence by using statistical modeling to identify spending anomalies and predict future cloud costs based on historical trends.
-:hammer_and_wrench: Technologies & Tools
+
+:hammer_and_wrench: **Technologies & Tools**
 • Data Logic: Python (Predictive Modeling) & SQL
 • Platform: Databricks (Spark SQL)
 • Domain: FinOps & Data Science
 • Methodology: Z-Score for Outlier Detection & Linear Regression for Forecasting
-:bar_chart: AI & Statistical Methodology
+
+:bar_chart: **AI & Statistical Methodology**
 To ensure financial control and predictability, the model applies two main layers of intelligence:
 1.	Anomaly Detection (Z-Score):
 The model calculates the standard deviation of daily costs. By applying the Z-Score formula Z = (x - \mu) / \sigma, it identifies values that deviate significantly from the mean. If a daily spend exceeds a Z-Score of 2.0, it is flagged as an anomaly (e.g., resource leakage, brute-force attacks, or misconfigurations).
