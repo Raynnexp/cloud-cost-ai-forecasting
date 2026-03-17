@@ -7,6 +7,7 @@ This project implements a Data Science approach to cloud financial management (F
 
 :hammer_and_wrench: **Technologies & Tools**
 • Data Logic: Python (Predictive Modeling) & SQL
+
 • Platform: Databricks (Spark SQL)
 • Domain: FinOps & Data Science
 • Methodology: Z-Score for Outlier Detection & Linear Regression for Forecasting
