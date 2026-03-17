@@ -1,0 +1,7 @@
+date,service,daily_cost,usage_hours
+2024-03-01,Databricks,100.00,24
+2024-03-02,Databricks,105.00,24
+2024-03-03,Databricks,110.00,25
+2024-03-04,Databricks,108.00,24
+2024-03-05,Databricks,350.00,24 
+2024-03-06,Databricks,115.00,26
