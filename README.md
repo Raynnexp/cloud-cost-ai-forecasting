@@ -1,7 +1,8 @@
 **Cloud Cost Intelligence & AI Forecasting :cloud::bar_chart:**
 
 Predictive anomaly detection and budget forecasting for cloud infrastructure using Statistical Modeling.
-:pushpin: **Project Objective**
+
+**Project Objective**
 This project implements a Data Science approach to cloud financial management (FinOps). The goal is to move from reactive reporting to proactive intelligence by using statistical modeling to identify spending anomalies and predict future cloud costs based on historical trends.
 
 :hammer_and_wrench: **Technologies & Tools**
